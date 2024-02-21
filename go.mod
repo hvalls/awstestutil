@@ -1,4 +1,4 @@
-module awstestutil
+module github.com/hvalls/awstestutil
 
 go 1.22.0
 
